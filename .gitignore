@@ -11,6 +11,8 @@
 /resources/js/routes
 /resources/js/wayfinder
 /vendor
+/vendor/
+node_modules/
 .DS_Store
 .env
 .env.backup
@@ -42,3 +44,8 @@ yarn-error.log
 /boost.json
 /opencode.json
 /opencode.jsonc
+/.vagrant
+public_html/storage
+public_html/hot
+bootstrap/compiled.php
+app/storage/
